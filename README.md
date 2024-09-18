@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahile-jhalak](https://github.com/sahile-jhalak)
 
-- 💬 Ask me about **Development,DSa**
+- 💬 Ask me about **Development,DSA**
 
 - 📫 How to reach me **sahilansarishb@gmail.com**
 
